@@ -1,0 +1,12 @@
+{
+  "token_length_posts": 512,
+  "token_length_comments": 512,
+  "dataset_path": "data/merged.csv",
+  "posts_weights": "model_weights/last_model_posts.pt",
+  "comments_weights": "model_weights/model_comments.pt",
+  "undersample": true,
+  "model_path": "model_weights",
+  "model_name": "model_comments.pt",
+  "gaussian_model_path": "model_weights/gaussian_params.pickle",
+  "mlp_model_path": "model_weights/gaussian_params.pickle"
+}

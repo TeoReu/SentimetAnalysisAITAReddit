@@ -1,0 +1,6 @@
+,metric,value
+0,Accuracy,0.5423280423280423
+1,precision,0.5282685512367491
+2,recall,0.791005291005291
+3,f1-score,0.6334745762711864
+4,Matthews Correlation Coefficient (MCC),0.09758093210933177

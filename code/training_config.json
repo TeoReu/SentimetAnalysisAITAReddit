@@ -1,0 +1,13 @@
+{
+  "token_length": 512,
+  "dataset_path": "data/posts.csv",
+  "model_weights": "model_weights/last_model_posts.pt",
+  "undersample": true,
+  "batch_size": 2,
+  "epochs": 3,
+  "lr": 2e-5,
+  "eps": 1e-8,
+  "warmup_steps": 100,
+  "model_path": "model_weights",
+  "model_name": "model_comments.pt"
+}

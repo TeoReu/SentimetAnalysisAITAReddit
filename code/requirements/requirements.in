@@ -1,0 +1,7 @@
+requests
+python-dotenv
+pandas
+praw
+psaw
+nltk
+jupyterlab

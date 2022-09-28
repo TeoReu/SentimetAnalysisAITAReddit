@@ -1,0 +1,6 @@
+,metric,value
+0,Accuracy,0.5
+1,precision,0.5
+2,recall,1.0
+3,f1-score,0.6666666666666666
+4,Matthews Correlation Coefficient (MCC),0.0
