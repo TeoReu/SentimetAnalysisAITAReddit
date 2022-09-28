@@ -1,0 +1,5 @@
+{
+  "token_length": 512,
+  "dataset_path": "data/evaluation_posts.csv",
+  "model_weights": "model_weights/last_model_posts.pt"
+}
